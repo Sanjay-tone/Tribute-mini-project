@@ -1,0 +1,59 @@
+body{
+
+    background-color:black;
+    background-repeat:  no-repeat;
+    background-size: cover;
+    
+
+    
+}
+
+
+h1{
+    font-size: xx-large;
+    text-align: center;
+    color: aqua;
+    border: double;
+    border-color: aliceblue;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    
+
+}
+
+#intro{
+    text-align: center;
+
+
+}
+#intro1{
+    color:aqua;
+    text-align: center;
+    font-size: larger;
+}
+
+#main{
+    color: white;
+    text-align: center;
+    text-decoration: double;
+}
+
+span{
+    color: yellow;
+    
+}
+#story{
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: white;
+    text-align: center;
+}
+
+
+
+    
+
